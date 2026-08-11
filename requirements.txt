@@ -1,0 +1,12 @@
+discord.py>=2.7.0
+Flask>=3.0.0
+google-api-python-client
+google-auth
+PyMuPDF
+Pillow
+qrcode[pil]
+arabic-reshaper
+python-bidi
+
+waitress>=3.0.0
+psutil>=6.0.0
